@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "context": "To reset your password, go to the login page, click 'Forgot Password', and follow the email instructions."
+  },
+  {
+    "question": "What are your support hours?",
+    "context": "Our customer support is available from 9 AM to 6 PM, Monday to Friday."
+  },
+  {
+    "question": "How can I contact customer service?",
+    "context": "You can contact customer service via email at support@example.com or call us at +1-234-567-890."
+  }
+]
